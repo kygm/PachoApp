@@ -1,3 +1,6 @@
-#mainPage{
-  background-color: hotpink;
+.doge{
+  background-image: "https://i.imgur.com/zSNi9G9.jpg";
+  width: 100%;
+  height: 100%; 
+  object-fit: contain;
 }
